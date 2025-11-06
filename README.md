@@ -5,6 +5,7 @@ O que é
 - Ao abrir, a app processa automaticamente `public/GTFSBHTRANS.zip` (sem upload).
 
 Como rodar
+- Importante: entre na pasta do projeto antes de rodar os comandos.
 - Requisitos: Node 18+ e npm
 - Passos:
   - `cd gtfs-vue-quasar`
